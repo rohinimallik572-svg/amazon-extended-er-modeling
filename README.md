@@ -79,10 +79,18 @@ Excel: Entity Dictionary & Attribute Mapping
 
 ---
 
-## 📸 Diagrams  
-*(Add your exported ER diagrams here when ready — rename before upload)*  
-```markdown
-![Marketplace ER](marketplace_erd.png)
-![Technology ER](technology_erd.png)
-![Fulfillment ER](fulfillment_erd.png)
+## 📸 Diagrams
+
+![Amazon ERD 1](amazon_erd_1.png)
+![Amazon ERD 2](amazon_erd_2.png)
+![Amazon ERD 3](amazon_erd_3.png)
+![Amazon ERD 4](amazon_erd_4.png)
+![Amazon ERD 5](amazon_erd_5.png)
+![Amazon ERD 6](amazon_erd_6.png)
+![Amazon ERD 7](amazon_erd_7.png)
+![Amazon ERD 8](amazon_erd_8.png)
+
+> The diagrams above represent different components of Amazon’s extended ER design — 
+> from conceptual overviews to logical and physical models. 
+> Each image captures relationships, cardinalities, and normalization across Marketplace, Technology, Fulfillment, and Compliance modules.
 
